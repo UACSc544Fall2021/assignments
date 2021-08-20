@@ -11,4 +11,5 @@ This repository contains descriptions of homework assignments and related docume
 - Homework Assignment 4: 
 - Project Milestone 4: 
 - Project Presentations: 
+- Homework Assignment 5:
 - Project Milestone 5: 
