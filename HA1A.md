@@ -74,7 +74,7 @@ The key elements of the bar chart are:
 
 Here is an example **with incorrect values**:
 
-![](images/544-HA1A-Bars.png)
+<img src="images/544-HA1A-Bars.png" width=400>
 
 You may choose different details in terms of spacing, colors, bar width,
 absolute height as long as proportions are maintained, etc. as long as the key
