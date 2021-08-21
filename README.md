@@ -2,7 +2,8 @@
 
 This repository contains descriptions of homework assignments and related documents.
 
-- Homework Assignment 1: 
+- Homework Assignment 1A: [HA1A.md](HA1A.md) 
+- Homework Assignment 1B: 
 - Homework Assignment 2: 
 - Project Milestone 1: [PM1.md](PM1.md) 
 - Homework Assignment 3: 
