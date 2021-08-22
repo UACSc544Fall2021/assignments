@@ -3,7 +3,7 @@
 This repository contains descriptions of homework assignments and related documents.
 
 - Homework Assignment 1A: [HA1A.md](HA1A.md) - Due Thursday 2021/08/26 
-- Homework Assignment 1B: 
+- Homework Assignment 1B: [HA1B.md](HA1B.md) - Due Thursday 2021/09/02 
 - Homework Assignment 2: 
 - Project Milestone 1: [PM1.md](PM1.md) - Due Thursday 2021/09/23
 - Homework Assignment 3: 
