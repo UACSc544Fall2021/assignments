@@ -143,7 +143,7 @@ SVGs using the `drinks` dataset from `dataF2021.js`
 
 Here is an example of a chart (with different options than in the `ha1b.js` code):
 
-<a href="images/544-HA1B-Scatter.png" width=500>
+<img src="images/544-HA1B-Scatter.png" width=500>
 
 
 These plots will be evaluated for correctness, completeness, and adherence to
