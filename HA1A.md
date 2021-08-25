@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/8/25, making extra explicit that Github's version is the one that will be graded
 - Released, 2021/8/21
 
 Due Thursday August 26, 11:59 PM
@@ -21,7 +22,7 @@ descriptions to ensure you are not mis-using a tag for presentation against
 its set content. Programmatically added SVG elements may have style
 attributes.
 
-You will be graded on what is in your github classroom repository associated
+You will be graded on what is in your github classroom repository (github's repository, *not* any repository on your local machine) associated
 with the assignment at the time of the due date. Do NOT include files specific
 to your system not required for the assignment (e.g., `.DS_Store` on macos) or
 LaTeX compilation files (e.g. `reading.pdf` or `reading.aux`). Include only
