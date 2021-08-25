@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/8/25, add more citation info to D3 paper
 - Released, 2021/8/21
 
 Due Thursday September 2, 11:59 PM 
@@ -35,7 +36,7 @@ The base files can also be accessed at: [https://github.com/uacsc544fall2021/ha1
 
 #### Paper Reading & LaTeX (20 pts)
 
-Read the paper "D<sup>3</sup>: Data-Driven Documents" and answer the following
+Read the paper "D<sup>3</sup>: Data-Driven Documents" by Bostock, Ogievetsky, & Heer, IEEE TVCG 2011. Answer the following
 questions:
 
 
