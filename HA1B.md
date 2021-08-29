@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/8/29, `data.js` --> `dataF2021.js`
 - 2021/8/25, add more citation info to D3 paper
 - Released, 2021/8/21
 
@@ -89,7 +90,7 @@ For this assignment, do not use any external JS libraries (e.g., d3js or
 others). 
 
 Your repository should be pre-loaded with `ha1b.html`, `ha1b.css`, `ha1b.js`,
-and `data.js`.  You will modify `ha1b.js` and `ha1b.css` in this assignment.
+and `dataF2021.js`.  You will modify `ha1b.js` and `ha1b.css` in this assignment.
 Do not change the height and width of the SVGs.
 
 After writing the code described below, the code in the `load` event listener
