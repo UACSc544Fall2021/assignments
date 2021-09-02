@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/9/1, clarify HTML modifications
 - 2021/8/29, `data.js` --> `dataF2021.js`
 - 2021/8/25, add more citation info to D3 paper
 - Released, 2021/8/21
@@ -92,6 +93,14 @@ others).
 Your repository should be pre-loaded with `ha1b.html`, `ha1b.css`, `ha1b.js`,
 and `dataF2021.js`.  You will modify `ha1b.js` and `ha1b.css` in this assignment.
 Do not change the height and width of the SVGs.
+
+*You should not modify the HTML to create the visualizations described below.
+The visualizations should be done solely via JS and CSS.*
+
+*You should modify the HTML to add your name.*
+
+*You can modify HTML to add things outside the charts (e.g., your own notes)
+but this is not required.*
 
 After writing the code described below, the code in the `load` event listener
 should run when `ha1b.html` is loaded and create the described charts. 
