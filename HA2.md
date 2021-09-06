@@ -81,7 +81,7 @@ Create a file called `short.tex` and answer the following questions. Like
 `reading.tex` above, it should compile into a `.pdf` with the command
 `pdflatex.` 
 
-<img src="images/Minard.png" width=500>
+<img src="images/Minard.png" width=800>
 
 1. Above is Charles Minard's map of Napoleon's Russian Campaign. Explain the
    marks, channels, and encoding rules of the black/tan part of this
