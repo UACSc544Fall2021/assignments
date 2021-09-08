@@ -2,7 +2,8 @@
 
 Version History: 
 
-- Released, 2021/9/6
+- 2021-09-07, fix typo in movie link
+- Released, 2021-09-06
 
 
 Due Thursday September 16, 11:59PM
@@ -144,7 +145,7 @@ this operation such that the call to it in `window.addEventListener` works.
 #### Scatter Plot (65 pts)
 
 Implement an interactive scatter chart as shown in the movie linked here:
-[images/HA2-Sample-Movie.mov](images/HA2-Sample-Moview.mov)
+[images/HA2-Sample-Movie.mov](images/HA2-Sample-Movie.mov)
 
 Add code to the `window.addEventListener` so that the scatter chart works on
 page load. It is highly recommended that you create some functions outside the
