@@ -116,7 +116,7 @@ listed if you list more than X.
 ### Visualization with d3js (64 pts as divided below) 
 
 Add to the scatter visualization and UI from HA2 as shown in the movie linked
-here: [HA3/images/HA3.mov](HA3/images/HA3.mov)
+here: [images/HA3.mov](images/HA3.mov)
 
 A still shot fo the entire framework is further down.
 
@@ -192,7 +192,7 @@ brush is moved (no transition time). As nice example of a d3-brush is
 You must still cite this example in the comments if you use it.
 
 
-![](HA3/images/CSC544-HA3.png)
+![](images/HA3.png)
 
 
 *More Extra Credit (10 pts)*: Implement panning and zooming in the scatter
