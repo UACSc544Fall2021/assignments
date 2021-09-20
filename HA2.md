@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021-09-16, fix typo in scatter plot points
 - 2021-09-07, fix typo in movie link
 - Released, 2021-09-06
 
@@ -142,7 +143,7 @@ Recreate the bar chart showing the grade distribution (yes, a third time!).
 This time do it with d3js.  Populate the function `createBarChart` to perform
 this operation such that the call to it in `window.addEventListener` works.
 
-#### Scatter Plot (65 pts)
+#### Scatter Plot (55 pts)
 
 Implement an interactive scatter chart as shown in the movie linked here:
 [images/HA2-Sample-Movie.mov](images/HA2-Sample-Movie.mov)
