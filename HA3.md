@@ -169,6 +169,9 @@ to you but must be visible through the brush.
     New bars grown from the bottom axis. Exiting bars shrink down into the
 bottom axis.
 
+  - The histogram should describe the data displayed. Therefore, the histogram
+    should reflect the filtered data if a filter is in place.
+
   - The histogram is calculated with
     [d3-bin](https://observablehq.com/@d3/d3-bin). There is a good example of
 it in use [here](https://observablehq.com/@d3/histogram). Note you are not
