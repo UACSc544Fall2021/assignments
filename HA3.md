@@ -218,5 +218,5 @@ assigned for partial completion.
   - histogram bars animate when changde: 5 pts
   - brush and brush functionality (changes in scatter plot): 20 pts
 - Functionality from HA2 is preserved unless otherwise noted and bar
-  chart-related code is removed: 10 pts
+  chart-related code is removed: 8 pts
 
