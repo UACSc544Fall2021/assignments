@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021-09-20, Fix typo "bar choice" --> "bar chart"
 - Released, 2021-09-19
 
 
@@ -90,7 +91,7 @@ you understand its meaning (1 pt), and the depth reasoning in explaining why
 it is the most important (2 pts). 
 
 4. Suppose you want guidance regarding possible bias effects that color choice
-   has on bars in a bar choice. You design an experiment to help provide this
+   has on bars in a bar chart. You design an experiment to help provide this
 guidance. What are you independent and dependent variables and why? (4 pts)
 
 5. In terms of van Wijk's economic model for the value of visualization, are
