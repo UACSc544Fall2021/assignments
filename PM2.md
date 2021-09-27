@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised, 2021-09-27 - Clarify subsections
 - Released, 2021-09-26
 
 
@@ -134,7 +135,7 @@ If you are using a hierarchical task taxonomy, all applicable levels of the
 hierarchy should be explained.
 
 
-#### Section: System Design (Required for System/Library Projects)
+#### Subsection: System Design (Required for System/Library Projects)
 
 Create a top level section called `System Design`. In this section,
 describe the design and architecture of your system. If it alters a
@@ -146,7 +147,7 @@ including technical concerns.
 Discuss your initial API design if writing a library.
 
 
-#### Section: Preliminary Designs (Required for Visualization Design Projects)
+#### Subsection: Preliminary Designs (Required for Visualization Design Projects)
 
 Create a top level section called `Preliminary Designs`. In this section,
 describe at least three different design approaches. Each design should be in
@@ -165,7 +166,7 @@ which of the preliminary designs you intend to implement and why you think
 this design is better than the others. 
 
 
-#### Section: Preliminary Study Design (Required for Evaluation Study Projects)
+#### Subsection: Preliminary Study Design (Required for Evaluation Study Projects)
 
 Create a top level section called `Preliminary Study Design`. In this section,
 describe the initial design of your experiment. Clearly state the research
