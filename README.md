@@ -9,7 +9,7 @@ This repository contains descriptions of homework assignments and related docume
 - Homework Assignment 3: [HA3.md](HA3.md) - Due Thursday 2021-09-30 
 - Project Milestone 2: [PM2.md](PM2.md) - Due Thursday 2021-10-07 
 - Project Milestone 3: [PM3.md](PM3.md) - Due Thursday 2021-10-28 
-- Homework Assignment 4: 
+- Homework Assignment 4: [HA4.md](HA4.md) - Due Thursday 2021-11-04
 - Project Milestone 4: 
 - Project Presentations: 
 - Homework Assignment 5:
