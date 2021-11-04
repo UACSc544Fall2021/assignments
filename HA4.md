@@ -2,6 +2,7 @@
 
 Version History: 
 
+- 2021/11/04 - Add clarification on `trees.js` from Piazza
 - Released, 2021/10/21
 
 
@@ -118,7 +119,8 @@ that each contains and `id` as well as the `id` of its `left` and `right`
 child (which may be `null`). The value of `id` matches the objects position in
 the array. These values describe a binary tree. 
 
-Note the grading dataset will contain trees in addition to the test dataset.
+**The purpose of `trees.js` is to describe the data format, not to cover all
+test cases. The grading dataset will contain trees in addition to what is in `trees.js`.**
 
 #### calculateRTLayout
 
