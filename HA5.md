@@ -84,9 +84,9 @@ class. (4 pts)
 
 6. Use Marching Squares (by hand) to draw the isocontours at 9 for the dataset
    [4, 6, 6, 3, 1, 8, 10, 12, 8, 3, 6, 12, 8, 8, 8, 3, 11, 10, 6, 12, 1, 3, 8,
-0, 18]  colleced from a 5 x 5 grid. Assume linear interpolation and that the data is
+0, 18]  colleced from a uniform 5 x 5 mesh. Assume linear interpolation and that the data is
 order to horizontal increases first. Your figure should make both the contour
-and grid visible, labeling the grid points. (8 pts)
+and mesh visible, labeling the mesh points. (8 pts)
 
 
 
