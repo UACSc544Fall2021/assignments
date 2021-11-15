@@ -16,7 +16,7 @@ In this assignment we are:
 
 The artifacts generated should be presented in LaTeX documents.
 
-Submit your assignment through Github Classroom: [https://classroom.github.com/a/DGAQu3i0](https://classroom.github.com/a/DGAQu3i0)
+Submit your assignment through Github Classroom: [https://classroom.github.com/a/eoiKFMYw](https://classroom.github.com/a/eoiKFMYw).
 
 ### Paper Reading (20 pts)
 
