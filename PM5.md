@@ -47,12 +47,12 @@ you do not need to include the directory.
 
 Your PM5 report should include several sections:
 
-#### Abstract (5 pts)
+### Abstract (5 pts)
 
 Briefly describe your project and contributions you have made for this
 milestone.
 
-#### Section: Overview (5 pts)
+### Section: Overview (5 pts)
 
 Create a top level section called `Overview`. In this section, describe the
 overall goal of your project -- what overarching problem is it trying to help
@@ -61,7 +61,7 @@ visualization aspect of that problem that your project entails.
 
 Then, summarize what work was completed for this milestone. 
 
-#### Section: Refinements to {Your Project Type}
+### Section: Refinements to {Your Project Type}
 
 **This section is for Visualization Design, System Design, and User Study
 Projects.**
@@ -82,8 +82,7 @@ be valid.
 ##### Movie
 
 If there are changes beyond minor bug fixes, please create a movie like you
-did for PM4 showing these changes. (If the changes are minor, write in this
-section that they are and thus you have not created a movie.)
+did for PM4 showing these changes. 
 
 The video should include some description of what is going on. This can be
 done in a separate text file (`.tex`, `.txt`, or `.md`) or can be done through
@@ -96,8 +95,11 @@ also use Google Drive for sharing. If the latter, please share with my kisaacs
 account at `cs.arizona.edu` as that's the one associated with Google. I cannot
 read from an `email.arizona.edu` share.**
 
+If the changes are minor such that you do not need a movie, write in this
+section that they are and thus you have not created a movie.
 
-#### Section: Evaluations 
+
+### Section: Evaluations 
 
 **This section is for Visualization Design, System Design, and User Study
 Projects.**
@@ -138,7 +140,7 @@ evaluation should be **feasible**. For example, it's possible you may recruit
 several rocket scientists for a half hour study but you probably cannot
 recruit 100s of rocket scientists for a 2 hour study. 
 
-#### Sections for Literature Surveys
+### Sections for Literature Surveys
 
 **These Sections are for Literature Surveys only.**
 
@@ -162,7 +164,7 @@ There should also be a section that describes open challenges and
 opportunities in the area of your literature survey.
 
 
-#### Section: Lessons Learned (20 pts)
+### Section: Lessons Learned (20 pts)
 
 In this section, reflecting upon your project milestones, discuss what lessons
 were learned that could possibly be transferred to other visualization
@@ -172,7 +174,7 @@ These lessons do not need to be novel. You can confirm or refute existing
 visualization knowledge in this discussion.
 
 
-#### Section: Project Summary (5 pts)
+### Section: Project Summary (5 pts)
 
 In this section, summarize your project as a whole, discussing what you did
 during the course of this project and what contributions were presented in
