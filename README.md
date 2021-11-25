@@ -14,4 +14,4 @@ This repository contains descriptions of homework assignments and related docume
 - Homework Assignment 5: [HA5.md](HA5.md) - Due **Wednesday** 2021-11-24
 - Project Presentations: [Presentations.md](Presentations.md) - Due **Monday**
   2021-11-29 at **9AM** 
-- Project Milestone 5: 
+- Project Milestone 5: [PM5.md](PM5.md) - Due **Tuesday** 2021-12-07 
